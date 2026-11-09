@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pipeline Docker</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Pipeline Docker</h1>
+        <p>Automatização da criação de imagens Docker</p>
+    </header>
+
+    <main>
+        <section class="container">
+            <h2>Meu Pipeline</h2>
+
+            <p>
+                Projeto de automação para construção de imagens
+                Docker utilizando GitHub Actions.
+            </p>
+
+            <div class="steps">
+                <div class="step">
+                    <span>01</span>
+                    <h3>Código</h3>
+                    <p>Desenvolvimento da aplicação.</p>
+                </div>
+
+                <div class="step">
+                    <span>02</span>
+                    <h3>Build</h3>
+                    <p>Construção da imagem Docker.</p>
+                </div>
+
+                <div class="step">
+                    <span>03</span>
+                    <h3>Imagem</h3>
+                    <p>Imagem Docker gerada.</p>
+                </div>
+            </div>
+
+            <button id="runPipeline">Executar demonstração</button>
+
+            <p id="status">Aguardando execução...</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Projeto de estudos - Pipeline Docker</p>
+    </footer>
+
+    <script src="../js/index.js"></script>
+</body>
+</html>

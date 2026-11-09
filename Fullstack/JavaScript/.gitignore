@@ -1,0 +1,44 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos compilados
+dist/
+
+# Logs
+*.log
+
+# Arquivos compactados
+*.zip
+
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
+
+APIS.txt
+function prompt {.txt}
+
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos compilados
+dist/
+
+# Logs
+*.log
+
+# Arquivos compactados
+*.zip
+
+# Temporários do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos pessoais
+APIS.txt
+function prompt {.txt

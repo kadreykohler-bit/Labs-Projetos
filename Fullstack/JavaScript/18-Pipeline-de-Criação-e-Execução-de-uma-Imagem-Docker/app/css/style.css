@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+header {
+    background-color: #172b4d;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h2 {
+    margin-bottom: 15px;
+}
+
+.steps {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin: 35px 0;
+}
+
+.step {
+    flex: 1;
+    padding: 20px;
+    background-color: #eef3f8;
+    border-radius: 8px;
+}
+
+.step span {
+    display: inline-block;
+    color: #1685d1;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.step h3 {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #1685d1;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0869ad;
+}
+
+#status {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #666;
+}
+
+@media (max-width: 600px) {
+    .steps {
+        flex-direction: column;
+    }
+
+    .container {
+        margin: 20px;
+    }
+}
