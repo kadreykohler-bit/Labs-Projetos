@@ -1,0 +1,138 @@
+{
+  "name": "Kelvyn A kohler",
+  "photo": "assets/img/my-photo.png",
+  "job": "Desenvolvedor Full Stack em formação | Técnico de Sistemas de Produção na HEINEKEN",
+  "location": "Ponta Grossa - Pr",
+  "phone": "(42) 99982-1281",
+  "email": "kadreykohler@gmail.com",
+  "professionalSummary": "Sou profissional de tecnologia em desenvolvimento, com experiência em sistemas, automação industrial, infraestrutura e análise de dados. Atualmente, atuo na HEINEKEN como Técnico de Sistemas de Produção...",
+
+  "skills": {
+    "hardSkills": [
+     {
+        "name": "JavaScript",
+        "logo": "data/imgs/js.png"
+    },
+    {
+        "name": "Node.js",
+        "logo": "data/imgs/nodejs.png"
+    },
+    {
+        "name": "Python",
+        "logo": "data/imgs/python.png"
+    },
+    {
+        "name": "SQL",
+        "logo": "data/imgs/mysql-sem-bordas.png"
+    },
+    {
+    "name": "AWS",
+    "logo": "data/imgs/aws-sem-bordas.png"
+    },
+    {
+    "name": "Inteligência Artificial",
+    "logo": "data/imgs/ia-sem-bordas.png"
+    },
+    {
+    "name": "GitHub",
+    "logo": "data/imgs/github.png"
+}
+    ],
+    "softSkills": [
+        "Organização",
+        "Trabalho em equipe",
+        "Comunicação",
+        "Resolução de problemas",
+        "Pensamento analítico",
+        "Adaptabilidade",
+        "Melhoria contínua",
+        "Liderança"
+    ]
+  },
+  "education": [
+    {
+        "institution": "Descomplica Faculdade Digital",
+        "name": "Análise e Desenvolvimento de Sistemas",
+        "period": "Julho de 2023 - Dezembro de 2026",
+        "status": "Em andamento"
+    },
+    {
+        "institution": "Descomplica Faculdade Digital",
+        "name": "Engenharia de Software",
+        "period": "Em andamento",
+        "status": "Em andamento"
+    },
+    {
+        "institution": "SENAI PR",
+        "name": "Técnico em Automação Industrial",
+        "period": "Novembro de 2022 - Novembro de 2024",
+        "status": "Concluído"
+    }
+],
+"certifications": [
+    {
+        "name": "Back-End Developer",
+        "institution": "DIO",
+        "category": "Desenvolvimento de Software"
+    },
+    {
+        "name": "NR10",
+        "institution": "Curso de Segurança do Trabalho",
+        "category": "Segurança e Eletricidade"
+    },
+    {
+        "name": "NR11",
+        "institution": "Curso de Segurança do Trabalho",
+        "category": "Operação de Equipamentos"
+    },
+    {
+        "name": "NR12",
+        "institution": "Curso de Segurança do Trabalho",
+        "category": "Segurança em Máquinas"
+    },
+    {
+        "name": "NR18",
+        "institution": "Curso de Segurança do Trabalho",
+        "category": "Segurança do Trabalho"
+    },
+    {
+        "name": "NR35",
+        "institution": "Curso de Segurança do Trabalho",
+        "category": "Trabalho em Altura"
+    },
+    {
+        "name": "Pacote Office Avançado",
+        "institution": "Curso de Informática",
+        "category": "Informática"
+    }
+],
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+     "name": "Backend de Controle Financeiro",
+      "url": "https://github.com/kadreykohler-bit/Portfolio/tree/4a0feb29f6c87bffa348b722cb0e72dcb5f74ba3/financial-control-backend",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+   {
+        "name": "Técnico de Sistemas de Produção | HEINEKEN",
+        "period": "Agosto de 2025 - Atual",
+        "description": "Atuação com análise de dados operacionais, monitoramento de KPIs e dashboards para acompanhamento de desempenho e identificação de oportunidades de melhoria. Parametrização de sistemas e lógicas de controle de máquinas, gestão de ativos e ordens de manutenção via SAP, análise de indicadores de confiabilidade (MTBF e MTTR), análise de causa raiz de falhas (RCFA) e governança de dados técnicos. Experiência na integração entre tecnologia, sistemas e processos industriais."
+    },
+    {
+        "name": "Instalador de Sistemas Fotovoltaicos | Máxima Solar",
+        "period": "Março de 2024 - Julho de 2024",
+        "description": "Configuração e programação de inversores fotovoltaicos, integração com plataformas de monitoramento em nuvem e configuração de redes Wi-Fi e dispositivos de conectividade. Atuação com infraestrutura, IoT, suporte técnico remoto e presencial, diagnóstico de falhas em sistemas e hardware e configuração de aplicativos para monitoramento de desempenho em tempo real."
+    },
+    {
+        "name": "Líder de Suporte Técnico e Operações | RC Informática",
+        "period": "Janeiro de 2017 - Janeiro de 2019",
+        "description": "Atuação em suporte técnico (Help Desk), diagnóstico de problemas e apoio à operação de equipamentos e recursos de informática. Responsabilidade pelo controle de inventário técnico e organização de componentes eletrônicos, contribuindo para a disponibilidade dos recursos e a organização das operações de suporte."
+    }
+  ]
+}
